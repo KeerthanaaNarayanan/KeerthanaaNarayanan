@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KeerthanaaNarayanan
 - 👀 Designing, Coding, Networking are my interests.
-- 🌱 Software Engineer full stack - playing with Python, Angular, MongoDB and little bit of Go.
+- 🌱 Full Stack Software Engineer - playing with Python, Angular, MongoDB and little bit of Go.
 - 📫 Like my projects? feel free to mail me at keerthanaa.narayanasamy@gmail.com!
